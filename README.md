@@ -3,7 +3,7 @@ Utilitaire léger de téléchargement et extraction de l'installateur de macOS S
 
 ## Versions :
 
-**[Télécharger l'utilitaire](https://github.com/istucesyt/download-install-macos-sequoia/releases)**
+**[Télécharger l'utilitaire](https://github.com/istucesyt/download-install-macos-sequoia/releases/tag/15.0-beta1)**
 
 > **Version :** Sequoia 15.0
 
