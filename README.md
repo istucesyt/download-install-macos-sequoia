@@ -1,5 +1,4 @@
 # ⬇️ Télécharger macOS Sequoia
-La méthode la plus simple pour télécharger et extraire l'installateur de macOS Sequoia.
+Utilitaire léger de téléchargement et extraction de l'installateur de macOS Sequoia.
 
-## Langue supportée : 
-- Français (FR) 🇫🇷
+## [Télécharger](https://github.com/istucesyt/download-install-macos-sequoia/releases)
