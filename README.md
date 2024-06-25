@@ -1,3 +1,9 @@
+<img
+  src="https://github.com/istucesyt/download-install-macos-sequoia/assets/108399865/e7f52374-e401-4581-ba60-a6f5ae75d48c"
+  width="100"
+  height="100" />
+
+
 # ⬇️ Télécharger macOS Sequoia
 Utilitaire léger de téléchargement et extraction de l'installateur de macOS Sequoia.
 
