@@ -9,27 +9,28 @@ Utilitaire léger de téléchargement et extraction de l'installateur de macOS S
 
 ## Versions :
 
-**[Télécharger l'utilitaire](https://github.com/istucesyt/download-install-macos-sequoia/releases/tag/15.0-beta2)**
+### ![](https://placehold.co/15x15/f03c15/f03c15.png) Bêta (dev)
 
-> **Version :** Sequoia 15.0
-
-> **Bêta :** 2 (dev)
->
-> **Date de sortie :** 24/06/24
-> 
-> **Poids :** 15 Go
+| Version | Bêta | Date de sortie | Poids | Téléchargement
+| --- | --- | --- | --- | --- |
+15.0 | 2 | 24/06/24 | 15 Go | ➡️ **[Télécharger](https://github.com/istucesyt/download-install-macos-sequoia/releases/tag/15.0-beta2)**
+15.0 | 1 | 10/06/24 | 14.8 Go | ➡️ **[Télécharger](https://github.com/istucesyt/download-install-macos-sequoia/releases/tag/15.0-beta1)**
 
 ---
 
-**[Télécharger l'utilitaire](https://github.com/istucesyt/download-install-macos-sequoia/releases/tag/15.0-beta1)**
+### ![](https://placehold.co/15x15/1589F0/1589F0.png) Bêta (pub)
 
-> **Version :** Sequoia 15.0
+| Version | Bêta | Date de sortie | Poids | Téléchargement
+| --- | --- | --- | --- | --- |
+15.0 | 1 | **estimée :** *08/07/24* | ? | ❌
 
-> **Bêta :** 1 (dev)
->
-> **Date de sortie :** 10/06/24
-> 
-> **Poids :** 14,8 Go
+---
+
+### ![](https://placehold.co/15x15/c5f015/c5f015.png) Stable
+
+| Version | Bêta | Date de sortie | Poids | Téléchargement
+| --- | --- | --- | --- | --- |
+15.0 | - | **estimée :** *16/09/24* | ? | ❌
 
 ## Capture d'écran :
 <img width="532" alt="Capture d’écran 2024-06-19 à 15 57 25" src="https://github.com/istucesyt/download-install-macos-sequoia/assets/108399865/466a7e51-7d1d-4eb9-806a-1a245b42aca7">
