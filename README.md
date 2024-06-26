@@ -19,8 +19,6 @@ Utilitaire léger de téléchargement et extraction de l'installateur de macOS S
 15.0 | 2 | 24/06/24 | 15 Go | ➡️ **[Télécharger](https://github.com/istucesyt/download-install-macos-sequoia/releases/tag/15.0-beta2)**
 15.0 | 1 | 10/06/24 | 14.8 Go | ➡️ **[Télécharger](https://github.com/istucesyt/download-install-macos-sequoia/releases/tag/15.0-beta1)**
 
----
-
 ### [‎ ](https://github.com/istucesyt/download-install-macos-sequoia/assets/108399865/f3091f16-4b5d-411c-b187-824da0e69406)
 
 | ![](https://placehold.co/15x15/1589F0/1589F0.png) Bêta (pub) |
@@ -29,8 +27,6 @@ Utilitaire léger de téléchargement et extraction de l'installateur de macOS S
 | Version | Bêta | Date de sortie | Poids | Téléchargement
 | --- | --- | --- | --- | --- |
 15.0 | 1 | **estimée :** *08/07/24* | ? | ❌
-
----
 
 ### [‎ ](https://github.com/istucesyt/download-install-macos-sequoia/assets/108399865/f3091f16-4b5d-411c-b187-824da0e69406)
 
