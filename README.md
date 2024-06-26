@@ -9,6 +9,8 @@ Utilitaire léger de téléchargement et extraction de l'installateur de macOS S
 
 ## Versions :
 
+### [](https://github.com/istucesyt/download-install-macos-sequoia/assets/108399865/f3091f16-4b5d-411c-b187-824da0e69406)
+
 | ![](https://placehold.co/15x15/f03c15/f03c15.png) Bêta (dev) |
 | --- |
 
@@ -19,6 +21,8 @@ Utilitaire léger de téléchargement et extraction de l'installateur de macOS S
 
 ---
 
+### [](https://github.com/istucesyt/download-install-macos-sequoia/assets/108399865/f3091f16-4b5d-411c-b187-824da0e69406)
+
 | ![](https://placehold.co/15x15/1589F0/1589F0.png) Bêta (pub) |
 | --- | 
 
@@ -27,6 +31,8 @@ Utilitaire léger de téléchargement et extraction de l'installateur de macOS S
 15.0 | 1 | **estimée :** *08/07/24* | ? | ❌
 
 ---
+
+### [](https://github.com/istucesyt/download-install-macos-sequoia/assets/108399865/f3091f16-4b5d-411c-b187-824da0e69406)
 
 | ![](https://placehold.co/15x15/c5f015/c5f015.png) Stable |
 | --- | 
