@@ -9,7 +9,8 @@ Utilitaire léger de téléchargement et extraction de l'installateur de macOS S
 
 ## Versions :
 
-### ![](https://placehold.co/15x15/f03c15/f03c15.png) Bêta (dev)
+| ![](https://placehold.co/15x15/f03c15/f03c15.png) Bêta (dev) |
+| --- |
 
 | Version | Bêta | Date de sortie | Poids | Téléchargement
 | --- | --- | --- | --- | --- |
@@ -18,7 +19,8 @@ Utilitaire léger de téléchargement et extraction de l'installateur de macOS S
 
 ---
 
-### ![](https://placehold.co/15x15/1589F0/1589F0.png) Bêta (pub)
+| ![](https://placehold.co/15x15/1589F0/1589F0.png) Bêta (pub) |
+| --- | 
 
 | Version | Bêta | Date de sortie | Poids | Téléchargement
 | --- | --- | --- | --- | --- |
@@ -26,7 +28,8 @@ Utilitaire léger de téléchargement et extraction de l'installateur de macOS S
 
 ---
 
-### ![](https://placehold.co/15x15/c5f015/c5f015.png) Stable
+| ![](https://placehold.co/15x15/c5f015/c5f015.png) Stable |
+| --- | 
 
 | Version | Bêta | Date de sortie | Poids | Téléchargement
 | --- | --- | --- | --- | --- |
