@@ -33,4 +33,7 @@ Utilitaire léger de téléchargement et extraction de l'installateur de macOS S
 15.0 | - | **estimée :** *16/09/24* | ? | ❌
 
 ## Capture d'écran :
-<img width="532" alt="Capture d’écran 2024-06-19 à 15 57 25" src="https://github.com/istucesyt/download-install-macos-sequoia/assets/108399865/466a7e51-7d1d-4eb9-806a-1a245b42aca7">
+
+| Page principale |
+| --- |
+| <img width="532" alt="Capture d’écran 2024-06-19 à 15 57 25" src="https://github.com/istucesyt/download-install-macos-sequoia/assets/108399865/466a7e51-7d1d-4eb9-806a-1a245b42aca7"> |
